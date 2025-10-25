@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Njeri  
 
-**Software Developer | Former Clinician | Driven Problem Solver & Tech Enthusiast**  
+**Junior Software Developer | Python | Django | APIs**  
 
 I’m passionate about creating solutions that improve lives, blending my healthcare background with my growing expertise in software development.  
 
