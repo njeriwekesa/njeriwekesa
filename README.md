@@ -14,7 +14,7 @@ I’m passionate about creating solutions that improve lives, blending my health
 ---
 
 ## 🛠️ Tech Stack  
-Frontend: HTML, CSS, JavaScript, React.js
+Frontend: HTML, CSS, React
 
 Mobile: React Native
 
