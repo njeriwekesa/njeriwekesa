@@ -4,6 +4,7 @@
 
 I’m passionate about creating solutions that improve lives, blending my healthcare background with my growing expertise in software development.  
 
+If you’re working on projects that make a real-world impact—or looking for a developer who approaches problems with empathy and precision—I’d love to connect.
 ---
 
 ## 🚀 Upcoming Projects  
@@ -24,7 +25,7 @@ Other: Git, GitHub
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/charity-njeri](https://www.linkedin.com/in/njeri-wekesa/)
 - **X:** [https://x.com/njeriwekesa](https://x.com/njeriwekesa) 
 - **Email:** wekesacharity@gmail.com
